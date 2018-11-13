@@ -67,7 +67,7 @@ print(polite_greeting)
 ```
 
     Hey, how are you?
-    
+
 
 
 ```python
@@ -76,7 +76,7 @@ print(no_time_to_talk)
 ```
 
     Punch it! They're on our tail!
-    
+
 
 ## Extra Practice
 
@@ -118,7 +118,7 @@ tony = Tiger()
 dumbo = Elephant()
 ```
 
-Now, append each of them into the array `zoo` in the cell below.
+Now, append each of them into the list `zoo` in the cell below.
 
 
 ```python
@@ -128,7 +128,7 @@ zoo.append(tony)
 zoo.append(dumbo)
 ```
 
-Now, loop through the `zoo` array and call print out the `.speak()` method for every animal in the zoo. 
+Now, loop through the `zoo` list and call print out the `.speak()` method for every animal in the zoo. 
 
 
 ```python
@@ -139,7 +139,7 @@ for animal in zoo:
     Roar
     Meow
     woo-I'm-an-elephant!
-    
+
 
 ## Summary
 In this lab, we practiced defining classes and instance methods. We then instantiated instances of our classes and used them to practice calling our instance methods. 
